@@ -33,10 +33,9 @@ Based on the  information on the dashboard, the following recommendations can be
 
 
 
- Data Professional Survey Dashboard | 
+ Super Store Dashboard | 
 | :---:
-![data survey](https://github.com/Anny85-code/alx-system_engineering-devops/assets/110308694/59a6f40e-4194-45db-8462-be8dc804d9c6)
-
+![Super Store Dashboard](./images/power bi super store.png)
 
 
 
