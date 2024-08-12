@@ -35,7 +35,7 @@ Based on the  information on the dashboard, the following recommendations can be
 
  Super Store Dashboard | 
 | :---:
-![Super-Store-Dashboard](./images/power bi super store.png)
+![Super-Store-Dashboard](https://github.com/Olivenwaigbo/Super-Store-Dashboard/blob/main/power%20bi%20super%20store.png)
 
 
 
